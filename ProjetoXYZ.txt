@@ -1,6 +1,6 @@
 #ProjetoXYZ.txt
 
-# Criada a funcionalizada ABC
+# Modificada a funcionalizada ABC
 # Criada a funcionalidade ZYC
 # Criada a funcionalidade DEF
 # Criada a funcionalidade GHI
