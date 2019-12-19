@@ -1,5 +1,12 @@
 # Changelog
 
+## 2019-12-19 - 0.0.3
+### Added/Adicionado
+- Criada a funcionalidade GHI
+### Changed/Modificado
+- Funcionalidade ABC corrigida
+- Funcionalidade DEF otimizada
+
 ## 2019-12-19 - 0.0.2
 ### Added/Adicionado
 - Criada a funcionalidade ABC, ZYC e DEF
