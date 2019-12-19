@@ -2,5 +2,5 @@
 
 # Modificada a funcionalizada ABC
 # Criada a funcionalidade ZYC
-# Criada a funcionalidade DEF
+# Otimizada a funcionalidade DEF
 # Criada a funcionalidade GHI
